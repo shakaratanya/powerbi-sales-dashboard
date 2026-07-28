@@ -1,2 +1,2 @@
-# powerbi-sales-dashboard
-Interactive Sales Performance Analytics Dashboard built with Microsoft Power BI.
+# Sales Performance Analytics Dashboard | Microsoft Power BI
+Designed and developed an interactive Sales Performance Analytics Dashboard in Microsoft Power BI to visualize key business metrics and support data-driven decision-making. The dashboard features KPI reporting, monthly revenue trend analysis, regional performance comparison, and interactive filtering. Built using Power Query, DAX, and Data Modeling, with a focus on delivering clear, business-focused insights through effective data visualization.
